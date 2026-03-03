@@ -1,4 +1,4 @@
-Basic Flocking Simulation
+##Basic Flocking Simulation##
 Objective: Simulate the flocking behavior of a group of agents (e.g., birds or fish) based on three simple rules: separation, alignment, and cohesion. These rules govern the interactions among agents, leading to emergent flocking behavior. This assignment introduces you to concepts in autonomous agent modeling, simulation, and behavior-based control.
 Background
 Flocking behavior is a classic example of how complex group dynamics can arise from simple local rules. Craig Reynolds' Boids model (1986) described this behavior, which is often observed in birds, fish, and other animals that travel in groups.
